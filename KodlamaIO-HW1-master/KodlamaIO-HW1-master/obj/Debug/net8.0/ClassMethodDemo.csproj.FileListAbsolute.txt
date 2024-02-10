@@ -1,0 +1,15 @@
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.exe
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.deps.json
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.runtimeconfig.json
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.dll
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.pdb
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.AssemblyInfoInputs.cache
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.AssemblyInfo.cs
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.dll
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\obj\Debug\net8.0\refint\ClassMethodDemo.dll
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.pdb
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.genruntimeconfig.cache
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\obj\Debug\net8.0\ref\ClassMethodDemo.dll
+C:\Users\emir_\source\repos\FirstApp\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.sourcelink.json
